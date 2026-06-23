@@ -40,7 +40,7 @@ RetailCo (entreprise fictive) est un e-commerçant britannique spécialisé dans
 
 ---
 
-## 🔍 Démarche & analyses
+##  Démarche & analyses
 
 L'analyse couvre les 4 dimensions clés d'une activité commerciale : quoi (produits), qui (clients), où (marchés) et quand (saisonnalité).
 
