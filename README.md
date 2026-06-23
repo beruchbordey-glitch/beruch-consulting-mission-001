@@ -7,7 +7,7 @@
 
 ##  À propos
 
-Beruch Consulting accompagne les entreprises dans leur transition vers une culture *data-driven*, en transformant leurs données brutes en décisions stratégiques.
+Beruch Consulting accompagne les entreprises dans leur transition vers une culture data-driven, en transformant leurs données brutes en décisions stratégiques.
 De la donnée à la décision.
 
 Chaque projet de ce portfolio est présenté sous forme de mission client : un contexte, une problématique, des analyses et des recommandations concrètes.
@@ -51,7 +51,7 @@ L'analyse couvre les 4 dimensions clés d'une activité commerciale : quoi (prod
 
 ## 2. Produits
 - Les best-sellers sont des articles de déco et réception (présentoirs à gâteaux, guirlandes, sacs, papercraft).
-- Le REGENCY CAKESTAND est à la fois un top vendeur** et un top annulé → cas à surveiller (fragilité au transport ?), mais la donnée ne permet pas de conclure (motif d'annulation absent).
+- Le REGENCY CAKESTAND est à la fois un top vendeur et un top annulé → cas à surveiller (fragilité au transport ?), mais la donnée ne permet pas de conclure (motif d'annulation absent).
 
 ### 3. Clients
 - 4 372 clients identifiés pour 540 000 lignes clientèle de type professionnels / revendeurs (gros volumes, commandes répétées).
@@ -80,7 +80,7 @@ Segmentation Récence / Fréquence / Montant (scores 1-5 via NTILE, segments via
 
 ##  Recommandations pour RetailCo
 
-1. Annulations :  Investiguer le process de facturation et **collecter les motifs d'annulation** (donnée aujourd'hui absente).
+1. Annulations :  Investiguer le process de facturation et collecter les motifs d'annulation (donnée aujourd'hui absente).
 2. Produits :  Concentrer la communication sur les best-sellers déco/réception ; surveiller le cas du REGENCY CAKESTAND.
 3. Clients : Mettre en place un programme de fidélité / VIP pour sécuriser les comptes clés (Pareto) et recontacter en priorité les 289 clients « à risque » (bons clients qui décrochent).
 4. Marchés : Explorer le développement à l'international, principal levier de croissance.
